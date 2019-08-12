@@ -8,3 +8,4 @@
 - [Vue MD Bootstrap - Free & Premium Vuejs Template](https://mdbootstrap.com/freebies/vue/admin-dashboard/)
 - [Vue Material Dashboard - Free Vuejs Template](https://www.creative-tim.com/product/vue-material-dashboard)
 - [Gull - Premium Laravel + Bootstrap4 admin template](http://gull-html-laravel.ui-lib.com/)
+- [AdminLTE RTL - Free Bootstrap3 admin template](https://github.com/hosseinizadeh/AdminLTE_Persian)
